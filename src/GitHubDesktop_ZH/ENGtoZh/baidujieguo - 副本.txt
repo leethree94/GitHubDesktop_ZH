@@ -1,0 +1,548 @@
+ Continue
+持续
+ Do you want to create a fork of this repository at 
+是否要在处创建此存储库的分支
+ Sign in
+登录
+ Verify
+验证
+&About GitHub Desktop
+关于GitHub桌面
+&Branch
+树枝
+&Branches list
+分支列表
+&Changes
+变化
+&Compare to branch
+与分支相比
+&Contact GitHub support…
+联系GitHub支持…
+&Delete…
+删除…
+&History
+历史
+&Merge into current branch…
+合并到当前分支…
+&Options…
+选项…
+&Reload
+重新加载
+&Rename…
+重命名…
+&Repository
+储存库
+&Toggle developer tools
+切换开发工具
+&View on GitHub
+查看GitHub
+A branch named 
+一个名为
+A force push will rewrite history on
+强制推送将改写历史
+A tag named 
+一个名为
+Add &local repository…
+添加本地存储库…
+Add a repository to GitHub Desktop to start collaborating
+将存储库添加到GitHub桌面以开始协作
+Add existing repository…
+0
+Add to dictionary
+添加到字典
+Additional Services
+附加勤务
+All checks have passed
+所有检查都通过了
+Also move this repository to Recycle Bin
+同时将此存储库移动到回收站
+Always available in the toolbar for local repositories or
+在本地存储库的工具栏中始终可用，或
+Always available in the toolbar or
+始终在工具栏中可用，或
+Always available in the toolbar when there are remote changes or
+当有远程更改或
+Always bring my changes to my new branch
+总是将我的更改带到我的新分支机构
+Always stash and leave my changes on the current branch
+始终将更改保存并保留在当前分支上
+Amend commit…
+修改并提交…
+Applications
+应用
+Are you sure you want to 
+你确定要吗
+Are you sure you want to abort this 
+您确定要中止此操作吗
+Are you sure you want to commit these conflicted files?
+是否确实要提交这些冲突文件？
+Are you sure you want to delete the tag
+是否确实要删除标记
+Are you sure you want to discard all 
+是否确实要放弃所有
+Are you sure you want to discard these stashed changes?
+是否确实要放弃这些隐藏的更改？
+Ask me where I want the changes to go
+问我要将更改放在哪里
+At the end of the 
+在
+Authentication code
+认证码
+Autocompletion of user and issues will be based on
+用户和问题的自动完成将基于
+Background updates
+背景更新
+Branches
+分支
+Changes
+变化
+Changes can be restored by retrieving them from the 
+可以通过从中检索更改来恢复更改
+Checking for ability to rebase automatically…
+正在检查自动重设基础的能力…
+Checking for updates…
+正在检查更新…
+Checks Summary
+检查摘要
+Clo&ne repository…
+克隆存储库…
+Clone repository…
+克隆存储库…
+Collapse expanded lines
+折叠扩展线
+Committing as 
+作为
+Compare on &GitHub
+在GitHub上进行比较
+Configure manually
+手动配置
+Connecting to GitHub
+连接到GitHub
+Copy SHA
+复印件
+Copy branch name
+复制分支名称
+Copy paths
+复制路径
+Copy relative paths
+复制相对路径
+Copy repo name
+复制回购名称
+Copy repo path
+复制回购路径
+Could not determine repository type
+无法确定存储库类型
+Could not find matching menu item for pull
+找不到用于拉取的匹配菜单项
+Could not find matching menu item for push
+找不到用于推送的匹配菜单项
+Could not load new contents for syntax highlighting
+无法加载语法高亮显示的新内容
+Could not load old contents for syntax highlighting
+无法加载语法高亮显示的旧内容
+Could not parse welcome wizard sign in method
+无法分析欢迎向导登录方法
+Could not retrieve default accelerator
+无法检索默认加速器
+Crash process failed to load
+无法加载崩溃进程
+Create &issue on GitHub
+在GitHub上创建问题
+Create Tag…
+创建标记…
+Create a merge commit
+创建合并提交
+Create branch based on…
+基于…创建分支…
+Create branch from commit
+从提交创建分支
+Create new repository…
+创建新存储库…
+Creating your fork 
+创建您的分叉
+Default branch name for new repositories
+新存储库的默认分支名称
+Delete branch 
+删除分支
+Delete remote branch 
+删除远程分支
+Delete tag…
+删除标记…
+Delete…
+删除…
+Description
+描述
+Diff display
+差异显示
+Difference
+差别
+Discard all changes…
+放弃所有更改…
+Discarding changes
+丢弃更改
+Discarding changes permanently
+永久丢弃更改
+Disclaimers and Limitations of Liability
+免责声明和责任限制
+Do not show this message again
+不再显示此消息
+Do you want to switch to that Pull Request now and start fixing
+是否要立即切换到该拉动请求并开始修复
+Downloading update…
+正在下载更新…
+Editing 
+编辑
+Enable notifications
+启用通知
+Enterprise address
+企业地址
+Enterprise or AE address
+企业或AE地址
+Error checking for updates
+检查更新时出错
+Error details
+错误详细信息
+Error fetching poll interval
+获取轮询间隔时出错
+Error installing CLI
+安装CLI时出错
+Error loading licenses
+加载许可证时出错
+Error migrating existing GUID
+迁移现有GUID时出错
+Error parsing updates url
+分析更新url时出错
+Error processing trampoline data
+蹦床数据的误差处理
+Error writing LFS progress file
+写入LFS进度文件时出错
+Exclude selected files
+排除选定文件
+Expand whole file
+展开整个文件
+Failed calculating ahead/behind status
+计算超前\/滞后状态失败
+Failed determining mergeability
+无法确定可合并性
+Failed discarding changes
+放弃更改失败
+Failed emitting update
+发送更新失败
+Failed inserting bin path into PATH environment variable
+将bin路径插入path环境变量失败
+Failed moving repository to trash
+将存储库移动到垃圾桶失败
+Failed opening contact support page
+打开联系人支持页面失败
+Failed opening issue creation page
+打开问题创建页面失败
+Failed opening keyboard shortcuts page
+打开键盘快捷键页失败
+Failed opening logs directory
+打开日志目录失败
+Failed opening user guides page
+打开用户指南页面失败
+Failed recording unhandled rejection
+记录未处理的拒绝失败
+Failed refreshing commit status
+刷新提交状态失败
+Failed removing bin path from PATH environment variable
+从path环境变量中删除bin路径失败
+Failed resolving Git proxy
+解析Git代理失败
+Failed resolving current editor at startup
+启动时解析当前编辑器失败
+Failed submitting error report
+提交错误报告失败
+Failed to discard changes to 
+未能放弃对的更改
+Failed to unlink config lock file
+无法取消配置锁定文件的链接
+File does not exist on disk
+文件在磁盘上不存在
+For my own purposes
+为了我自己的目的
+For this repository I wish to
+对于这个存储库，我希望
+Force pushing
+推力
+Fork behavior
+分叉行为
+Get started
+开始
+Git LFS filters are already configured in
+Git LFS筛选器已在中配置
+Git config
+Git配置
+Git ignore
+Git忽略
+GitHub Desktop
+GitHub桌面
+GitHub Desktop cannot verify the identity of 
+GitHub桌面无法验证的标识
+GitHub Enterprise
+GitHub企业
+Go to &Summary
+转到摘要
+Help GitHub Desktop improve by submitting
+通过提交帮助GitHub桌面改进
+Hide whitespace changes
+隐藏空白更改
+Highlighter worked failed for new contents
+新内容的荧光灯工作失败
+Highlighter worked failed for old contents
+对于旧内容，荧光灯工作失败
+History
+历史
+If you trust the owner of the directory you can
+如果您信任目录的所有者，则可以：
+Ignored files
+忽略的文件
+Include selected files
+包括选定文件
+Initialize this repository with a README
+使用自述文件初始化此存储库
+Issues will be created in 
+将在中创建问题
+It looks like you don’t have write access to 
+看起来您没有对的写访问权限
+Last fetched 
+最后取出
+License
+许可证
+Loading system theme
+加载系统主题
+Local path
+本地路径
+Looks like there are no repositories for
+看起来没有“”的存储库
+Miscellanea
+杂集
+New &branch…
+新分支…
+New &repository…
+新存储库…
+New branches will be based on
+新的分支机构将基于：
+No local changes
+无本地更改
+Notifications
+通知
+Onion Skin
+洋葱皮
+Open Source Licenses and Notices
+开源许可证和通知
+Organization
+组织
+Other…
+其他…
+Password
+暗语
+Periodically fetch and refresh status of all repositories
+定期获取和刷新所有存储库的状态
+Previous tags
+以前的标签
+Primary remote repository (
+主远程存储库(
+Privacy
+隐私
+ProTip!
+普罗提普！
+Pull requests targeting 
+拉取请求目标
+R&ebase current branch…
+重新设置当前分支的基础…
+Reachable
+可达成的
+Rebase 
+重基
+Remember passphrase
+记住密码短语
+Remember password
+记住密码
+Remove alias
+删除别名
+Removing repositories
+删除存储库
+Rename…
+重命名…
+Report issue…
+报告问题…
+Repository &list
+存储库列表
+Repository &settings…
+存储库设置…
+Repository URL or GitHub username and repository
+0
+Reset to commit…
+重置为提交…
+Reset zoom
+重置缩放
+Resolve conflicts and commit to merge into
+解决冲突并提交合并到
+Resolve conflicts to continue 
+解决冲突以继续
+Resolve conflicts to continue rebasing
+解决冲突以继续重设基础
+Restore
+恢复
+Revert changes in commit
+在提交中还原更改
+S&how logs in Explorer
+在资源管理器中显示日志
+Select &all
+全选
+Select a single commit
+选择单个提交
+Select all
+全选
+Select your editor in
+在中选择您的编辑器
+Show User Guides
+显示用户指南
+Show in E&xplorer
+在资源管理器中显示
+Show keyboard shortcuts
+显示键盘快捷键
+Show whitespace changes?
+是否显示空白更改？
+Squas&h and merge into current branch…
+挤压并合并到当前分支…
+Squash 
+南瓜
+Squash and merge
+挤压和合并
+Stashed changes
+隐藏的变化
+Successfully copied 
+成功复制
+Successfully merged 
+成功合并
+Successfully merged into 
+成功合并到
+Successfully rebased 
+成功重设基础
+Successfully reordered 
+成功重新排序
+Successfully squashed 
+成功压扁
+Thanks so much for all your hard work on GitHub Desktop
+非常感谢您在GitHub桌面上的辛勤工作
+The Git repository
+Git存储库
+The Git repository at 
+Git存储库位于
+The branch also exists on the remote, do you wish to delete it there as well?
+远程服务器上也存在该分支，是否也要将其删除？
+The command line tool has been installed at
+命令行工具已安装在
+The compared branch (
+比较分支(
+The current branch (
+当前分支(
+The email in your global Git config (
+您的全局Git配置中的电子邮件(
+The repository 
+储存库
+The tag name cannot be longer than 
+标记名不能长于
+There will be
+会有
+These changes will be unrecoverable from the 
+这些更改将无法从中恢复
+This branch is tracking 
+该分支正在跟踪
+This branch is up to date with
+该分支机构更新了
+This branch is up to date with 
+该分支机构更新了
+This commit will be misattributed
+此提交将被错误归因
+This directory contains a 
+此目录包含
+This will merge
+这将合并
+This will update 
+这将更新
+To contribute to the parent repository
+要贡献给父存储库：
+Toggle &full screen
+切换全屏
+Trampoline client error
+蹦床客户端错误
+Unable to 
+无法
+Unable to determine repository type
+无法确定存储库类型
+Unable to display diff when multiple
+多个时无法显示差异
+Unable to merge unrelated histories in this repository
+无法在此存储库中合并不相关的历史记录
+Uncaught exception
+意外例外
+Undo commit…
+撤消提交…
+Unexpected error from git operations in getConflictDetails
+getConflictDetails中git操作出现意外错误
+Unified
+统一的
+Unreachable
+遥不可及
+Use a local Git config
+使用本地Git配置
+Use my global Git config
+使用我的全局Git配置
+Use system OpenSSH (recommended)
+使用系统OpenSSH（推荐）
+Username
+用户名
+Username or email address
+用户名或电子邮件地址
+View branch on GitHub
+查看GitHub上的分支
+View on GitHub
+查看GitHub
+We were unable to authenticate with 
+我们无法与进行身份验证
+We will help you contribute to the
+我们将帮助您为
+Welcome to GitHub Desktop
+欢迎来到GitHub桌面
+Whitespace
+空白
+Will be created as 
+将创建为
+Will be saved as 
+将另存为
+Would you like to publish 
+您想发布吗
+Would you like to push your changes to
+是否要将更改推送到
+Would you like to retry cloning 
+是否要重试克隆
+Would you like to update the remote to use the expected URL?
+是否要更新远程以使用预期的URL？
+Yes, delete this branch on the remote
+是，删除远程上的此分支
+You can try 
+你可以试试
+You have 
+你有
+Your branch is up to date with the compared branch (
+您的分支机构与比较的分支机构是最新的(
+Your new branch will be based on
+您的新分支机构将基于：
+Your new branch will be based on your currently checked out branch (
+您的新分支将基于当前签出的分支(
+Zoom in
+放大
+Zoom out
+缩小
+most recent commit
+最近的承诺
+storagemutated
+存储突变
+unable to find range for given line in diff
+在差异中找不到给定行的范围
+ as determined by your
+由您的

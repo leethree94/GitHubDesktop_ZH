@@ -1,0 +1,20 @@
+ Continue
+持续
+ Do you want to create a fork of this repository at 
+是否要在处创建此存储库的分支
+ Sign in
+登录
+ Verify
+验证
+&About GitHub Desktop
+关于GitHub桌面
+&Branch
+树枝
+&Branches list
+分支列表
+&Changes
+变化
+&Compare to branch
+与分支相比
+&Contact GitHub support…
+联系GitHub支持…
